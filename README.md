@@ -16,7 +16,7 @@ Key: "N" - Nitrogen 15
      "H" - Deuterium
      "C" - Carbon 13
      "S" - Sulfur 34
-     Custum: (H,C,O,N,S),MW
+     Custom: (H,C,O,N,S),MW
 N
 
 Molecular Formula: C-447 H-716 O-146 N-130 S-4
