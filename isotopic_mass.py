@@ -80,7 +80,7 @@ def check_str(amine_dict):
         print('     "H" - Deuterium')
         print('     "C" - Carbon 13')
         print('     "S" - Sulfur 34')
-        print('     Custum: (H,C,O,N,S),MW')
+        print('     Custom: (H,C,O,N,S),MW')
         isotope_str= input()
         if isotope_str == '':
             break
